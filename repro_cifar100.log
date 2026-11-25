@@ -1,298 +1,0 @@
-Task  1/10: accuracy = 80.60
-Task  2/10: accuracy = 71.65
-Task  3/10: accuracy = 49.10
-Task  4/10: accuracy = 53.48
-Task  5/10: accuracy = 55.66
-Task  6/10: accuracy = 51.28
-Task  7/10: accuracy = 52.46
-Task  8/10: accuracy = 51.23
-Task  9/10: accuracy = 49.28
-Task 10/10: accuracy = 47.27
-Last accuracy: 47.27 | Average accuracy: 56.20
-Head accuracy: 95.17 | Tail accuracy: 26.74
-Task  1/10: accuracy = 80.80
-Task  2/10: accuracy = 75.20
-Task  3/10: accuracy = 69.80
-Task  4/10: accuracy = 70.17
-Task  5/10: accuracy = 69.14
-Task  6/10: accuracy = 63.42
-Task  7/10: accuracy = 64.77
-Task  8/10: accuracy = 65.71
-Task  9/10: accuracy = 65.21
-Task 10/10: accuracy = 64.33
-Last accuracy: 64.33 | Average accuracy: 68.86
-Head accuracy: 94.80 | Tail accuracy: 51.27
-Task  1/10: accuracy = 85.70
-Task  2/10: accuracy = 83.25
-Task  3/10: accuracy = 79.03
-Task  4/10: accuracy = 78.03
-Task  5/10: accuracy = 77.46
-Task  6/10: accuracy = 72.47
-Task  7/10: accuracy = 72.31
-Task  8/10: accuracy = 73.31
-Task  9/10: accuracy = 72.79
-Task 10/10: accuracy = 71.75
-Last accuracy: 71.75 | Average accuracy: 76.61
-Head accuracy: 95.07 | Tail accuracy: 61.76
-Task  1/10: accuracy = 95.00
-Task  2/10: accuracy = 92.45
-Task  3/10: accuracy = 90.67
-Task  4/10: accuracy = 88.73
-Task  5/10: accuracy = 88.30
-Task  6/10: accuracy = 85.18
-Task  7/10: accuracy = 83.96
-Task  8/10: accuracy = 84.42
-Task  9/10: accuracy = 83.26
-Task 10/10: accuracy = 82.26
-Last accuracy: 82.26 | Average accuracy: 87.42
-Head accuracy: 86.90 | Tail accuracy: 80.27
-Task  1/10: accuracy = 87.00
-Task  2/10: accuracy = 74.70
-Task  3/10: accuracy = 50.87
-Task  4/10: accuracy = 52.88
-Task  5/10: accuracy = 54.78
-Task  6/10: accuracy = 54.95
-Task  7/10: accuracy = 54.60
-Task  8/10: accuracy = 53.56
-Task  9/10: accuracy = 51.42
-Task 10/10: accuracy = 49.72
-Last accuracy: 49.72 | Average accuracy: 58.45
-Head accuracy: 95.00 | Tail accuracy: 30.31
-Task  1/10: accuracy = 88.00
-Task  2/10: accuracy = 80.05
-Task  3/10: accuracy = 74.37
-Task  4/10: accuracy = 72.30
-Task  5/10: accuracy = 69.88
-Task  6/10: accuracy = 68.05
-Task  7/10: accuracy = 68.01
-Task  8/10: accuracy = 68.24
-Task  9/10: accuracy = 67.38
-Task 10/10: accuracy = 66.85
-Last accuracy: 66.85 | Average accuracy: 72.31
-Head accuracy: 95.07 | Tail accuracy: 54.76
-Task  1/10: accuracy = 90.80
-Task  2/10: accuracy = 85.85
-Task  3/10: accuracy = 82.23
-Task  4/10: accuracy = 80.00
-Task  5/10: accuracy = 77.56
-Task  6/10: accuracy = 75.80
-Task  7/10: accuracy = 75.60
-Task  8/10: accuracy = 75.51
-Task  9/10: accuracy = 74.20
-Task 10/10: accuracy = 73.51
-Last accuracy: 73.51 | Average accuracy: 79.11
-Head accuracy: 95.67 | Tail accuracy: 64.01
-Task  1/10: accuracy = 98.60
-Task  2/10: accuracy = 95.50
-Task  3/10: accuracy = 92.60
-Task  4/10: accuracy = 89.33
-Task  5/10: accuracy = 87.94
-Task  6/10: accuracy = 86.28
-Task  7/10: accuracy = 84.94
-Task  8/10: accuracy = 84.53
-Task  9/10: accuracy = 83.01
-Task 10/10: accuracy = 82.16
-Last accuracy: 82.16 | Average accuracy: 88.49
-Head accuracy: 88.50 | Tail accuracy: 79.44
-Task  1/10: accuracy = 85.90
-Task  2/10: accuracy = 76.85
-Task  3/10: accuracy = 55.87
-Task  4/10: accuracy = 58.88
-Task  5/10: accuracy = 63.72
-Task  6/10: accuracy = 63.67
-Task  7/10: accuracy = 59.27
-Task  8/10: accuracy = 54.37
-Task  9/10: accuracy = 52.56
-Task 10/10: accuracy = 49.37
-Last accuracy: 49.37 | Average accuracy: 62.05
-Head accuracy: 97.40 | Tail accuracy: 28.79
-Task  1/10: accuracy = 86.00
-Task  2/10: accuracy = 81.50
-Task  3/10: accuracy = 78.57
-Task  4/10: accuracy = 74.28
-Task  5/10: accuracy = 75.30
-Task  6/10: accuracy = 75.25
-Task  7/10: accuracy = 70.39
-Task  8/10: accuracy = 67.40
-Task  9/10: accuracy = 66.99
-Task 10/10: accuracy = 66.13
-Last accuracy: 66.13 | Average accuracy: 74.18
-Head accuracy: 97.53 | Tail accuracy: 52.67
-Task  1/10: accuracy = 88.80
-Task  2/10: accuracy = 86.10
-Task  3/10: accuracy = 83.53
-Task  4/10: accuracy = 79.72
-Task  5/10: accuracy = 80.50
-Task  6/10: accuracy = 80.95
-Task  7/10: accuracy = 77.19
-Task  8/10: accuracy = 74.64
-Task  9/10: accuracy = 74.03
-Task 10/10: accuracy = 73.44
-Last accuracy: 73.44 | Average accuracy: 79.89
-Head accuracy: 97.10 | Tail accuracy: 63.30
-Task  1/10: accuracy = 97.90
-Task  2/10: accuracy = 94.85
-Task  3/10: accuracy = 92.50
-Task  4/10: accuracy = 89.38
-Task  5/10: accuracy = 89.02
-Task  6/10: accuracy = 88.82
-Task  7/10: accuracy = 85.91
-Task  8/10: accuracy = 83.88
-Task  9/10: accuracy = 83.20
-Task 10/10: accuracy = 82.97
-Last accuracy: 82.97 | Average accuracy: 88.84
-Head accuracy: 90.63 | Tail accuracy: 79.69
-/research/cbim/vast/qt60/once_again/nonono/q/GSR/backbone.py:42: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
-  state = torch.load(mocov3_ckpt, map_location="cpu")["state_dict"]
-Extracting train features of cifar100 with mocov3 ...
-Files already downloaded and verified
-[MoCo v3] <All keys matched successfully>
-  0%|          | 0/196 [00:00<?, ?it/s]  1%|          | 1/196 [00:01<05:39,  1.74s/it]  1%|          | 2/196 [00:02<03:30,  1.09s/it]  2%|▏         | 3/196 [00:03<02:49,  1.14it/s]  2%|▏         | 4/196 [00:03<02:29,  1.28it/s]  3%|▎         | 5/196 [00:04<02:18,  1.38it/s]  3%|▎         | 6/196 [00:04<02:11,  1.44it/s]  4%|▎         | 7/196 [00:05<02:06,  1.49it/s]  4%|▍         | 8/196 [00:06<02:03,  1.52it/s]  5%|▍         | 9/196 [00:06<02:01,  1.53it/s]  5%|▌         | 10/196 [00:07<01:59,  1.55it/s]  6%|▌         | 11/196 [00:08<01:59,  1.55it/s]  6%|▌         | 12/196 [00:08<01:57,  1.56it/s]  7%|▋         | 13/196 [00:09<01:56,  1.57it/s]  7%|▋         | 14/196 [00:09<01:55,  1.57it/s]  8%|▊         | 15/196 [00:10<01:54,  1.58it/s]  8%|▊         | 16/196 [00:11<01:54,  1.57it/s]  9%|▊         | 17/196 [00:11<01:54,  1.56it/s]  9%|▉         | 18/196 [00:12<01:53,  1.56it/s] 10%|▉         | 19/196 [00:13<01:53,  1.56it/s] 10%|█         | 20/196 [00:13<01:52,  1.57it/s] 11%|█         | 21/196 [00:14<01:50,  1.58it/s] 11%|█         | 22/196 [00:15<01:50,  1.58it/s] 12%|█▏        | 23/196 [00:15<01:49,  1.58it/s] 12%|█▏        | 24/196 [00:16<01:48,  1.58it/s] 13%|█▎        | 25/196 [00:16<01:47,  1.59it/s] 13%|█▎        | 26/196 [00:17<01:47,  1.58it/s] 14%|█▍        | 27/196 [00:18<01:46,  1.59it/s] 14%|█▍        | 28/196 [00:18<01:46,  1.58it/s] 15%|█▍        | 29/196 [00:19<01:45,  1.59it/s] 15%|█▌        | 30/196 [00:20<01:44,  1.58it/s] 16%|█▌        | 31/196 [00:20<01:43,  1.59it/s] 16%|█▋        | 32/196 [00:21<01:42,  1.59it/s] 17%|█▋        | 33/196 [00:21<01:42,  1.59it/s] 17%|█▋        | 34/196 [00:22<01:42,  1.58it/s] 18%|█▊        | 35/196 [00:23<01:42,  1.58it/s] 18%|█▊        | 36/196 [00:23<01:42,  1.57it/s] 19%|█▉        | 37/196 [00:24<01:41,  1.57it/s] 19%|█▉        | 38/196 [00:25<01:40,  1.58it/s] 20%|█▉        | 39/196 [00:25<01:39,  1.58it/s] 20%|██        | 40/196 [00:26<01:41,  1.54it/s] 21%|██        | 41/196 [00:27<01:39,  1.55it/s] 21%|██▏       | 42/196 [00:27<01:39,  1.56it/s] 22%|██▏       | 43/196 [00:28<01:37,  1.56it/s] 22%|██▏       | 44/196 [00:29<01:37,  1.56it/s] 23%|██▎       | 45/196 [00:29<01:36,  1.57it/s] 23%|██▎       | 46/196 [00:30<01:35,  1.57it/s] 24%|██▍       | 47/196 [00:30<01:34,  1.58it/s] 24%|██▍       | 48/196 [00:31<01:34,  1.56it/s] 25%|██▌       | 49/196 [00:32<01:33,  1.56it/s] 26%|██▌       | 50/196 [00:32<01:33,  1.56it/s] 26%|██▌       | 51/196 [00:33<01:32,  1.56it/s] 27%|██▋       | 52/196 [00:34<01:31,  1.57it/s] 27%|██▋       | 53/196 [00:34<01:30,  1.58it/s] 28%|██▊       | 54/196 [00:35<01:30,  1.57it/s] 28%|██▊       | 55/196 [00:36<01:29,  1.57it/s] 29%|██▊       | 56/196 [00:36<01:29,  1.57it/s] 29%|██▉       | 57/196 [00:37<01:28,  1.58it/s] 30%|██▉       | 58/196 [00:37<01:27,  1.58it/s] 30%|███       | 59/196 [00:38<01:26,  1.58it/s] 31%|███       | 60/196 [00:39<01:25,  1.58it/s] 31%|███       | 61/196 [00:39<01:25,  1.58it/s] 32%|███▏      | 62/196 [00:40<01:24,  1.58it/s] 32%|███▏      | 63/196 [00:41<01:23,  1.58it/s] 33%|███▎      | 64/196 [00:41<01:23,  1.58it/s] 33%|███▎      | 65/196 [00:42<01:22,  1.58it/s] 34%|███▎      | 66/196 [00:42<01:22,  1.58it/s] 34%|███▍      | 67/196 [00:43<01:21,  1.58it/s] 35%|███▍      | 68/196 [00:44<01:21,  1.58it/s] 35%|███▌      | 69/196 [00:44<01:20,  1.58it/s] 36%|███▌      | 70/196 [00:45<01:19,  1.58it/s] 36%|███▌      | 71/196 [00:46<01:19,  1.58it/s] 37%|███▋      | 72/196 [00:46<01:18,  1.58it/s] 37%|███▋      | 73/196 [00:47<01:18,  1.57it/s] 38%|███▊      | 74/196 [00:48<01:17,  1.57it/s] 38%|███▊      | 75/196 [00:48<01:16,  1.58it/s] 39%|███▉      | 76/196 [00:49<01:16,  1.58it/s] 39%|███▉      | 77/196 [00:49<01:15,  1.58it/s] 40%|███▉      | 78/196 [00:50<01:14,  1.58it/s] 40%|████      | 79/196 [00:51<01:14,  1.58it/s] 41%|████      | 80/196 [00:51<01:13,  1.58it/s] 41%|████▏     | 81/196 [00:52<01:12,  1.58it/s] 42%|████▏     | 82/196 [00:53<01:12,  1.58it/s] 42%|████▏     | 83/196 [00:53<01:11,  1.58it/s] 43%|████▎     | 84/196 [00:54<01:10,  1.58it/s] 43%|████▎     | 85/196 [00:55<01:10,  1.59it/s] 44%|████▍     | 86/196 [00:55<01:09,  1.59it/s] 44%|████▍     | 87/196 [00:56<01:08,  1.59it/s] 45%|████▍     | 88/196 [00:56<01:08,  1.59it/s] 45%|████▌     | 89/196 [00:57<01:07,  1.58it/s] 46%|████▌     | 90/196 [00:58<01:06,  1.58it/s] 46%|████▋     | 91/196 [00:58<01:06,  1.58it/s] 47%|████▋     | 92/196 [00:59<01:05,  1.58it/s] 47%|████▋     | 93/196 [01:00<01:05,  1.58it/s] 48%|████▊     | 94/196 [01:00<01:04,  1.58it/s] 48%|████▊     | 95/196 [01:01<01:03,  1.58it/s] 49%|████▉     | 96/196 [01:01<01:03,  1.58it/s] 49%|████▉     | 97/196 [01:02<01:02,  1.58it/s] 50%|█████     | 98/196 [01:03<01:02,  1.58it/s] 51%|█████     | 99/196 [01:03<01:01,  1.58it/s] 51%|█████     | 100/196 [01:04<01:00,  1.58it/s] 52%|█████▏    | 101/196 [01:05<01:00,  1.58it/s] 52%|█████▏    | 102/196 [01:05<00:59,  1.58it/s] 53%|█████▎    | 103/196 [01:06<00:58,  1.58it/s] 53%|█████▎    | 104/196 [01:07<00:58,  1.58it/s] 54%|█████▎    | 105/196 [01:07<00:57,  1.57it/s] 54%|█████▍    | 106/196 [01:08<00:57,  1.57it/s] 55%|█████▍    | 107/196 [01:08<00:56,  1.57it/s] 55%|█████▌    | 108/196 [01:09<00:56,  1.57it/s] 56%|█████▌    | 109/196 [01:10<00:55,  1.57it/s] 56%|█████▌    | 110/196 [01:10<00:54,  1.57it/s] 57%|█████▋    | 111/196 [01:11<00:54,  1.57it/s] 57%|█████▋    | 112/196 [01:12<00:53,  1.56it/s] 58%|█████▊    | 113/196 [01:12<00:53,  1.56it/s] 58%|█████▊    | 114/196 [01:13<00:52,  1.56it/s] 59%|█████▊    | 115/196 [01:14<00:51,  1.56it/s] 59%|█████▉    | 116/196 [01:14<00:51,  1.56it/s] 60%|█████▉    | 117/196 [01:15<00:50,  1.56it/s] 60%|██████    | 118/196 [01:15<00:49,  1.56it/s] 61%|██████    | 119/196 [01:16<00:49,  1.57it/s] 61%|██████    | 120/196 [01:17<00:48,  1.57it/s] 62%|██████▏   | 121/196 [01:17<00:48,  1.53it/s] 62%|██████▏   | 122/196 [01:18<00:48,  1.54it/s] 63%|██████▎   | 123/196 [01:19<00:47,  1.55it/s] 63%|██████▎   | 124/196 [01:19<00:46,  1.55it/s] 64%|██████▍   | 125/196 [01:20<00:45,  1.56it/s] 64%|██████▍   | 126/196 [01:21<00:44,  1.56it/s] 65%|██████▍   | 127/196 [01:21<00:44,  1.56it/s] 65%|██████▌   | 128/196 [01:22<00:43,  1.57it/s] 66%|██████▌   | 129/196 [01:23<00:42,  1.57it/s] 66%|██████▋   | 130/196 [01:23<00:42,  1.56it/s] 67%|██████▋   | 131/196 [01:24<00:41,  1.56it/s] 67%|██████▋   | 132/196 [01:24<00:40,  1.56it/s] 68%|██████▊   | 133/196 [01:25<00:40,  1.57it/s] 68%|██████▊   | 134/196 [01:26<00:39,  1.56it/s] 69%|██████▉   | 135/196 [01:26<00:39,  1.56it/s] 69%|██████▉   | 136/196 [01:27<00:38,  1.57it/s] 70%|██████▉   | 137/196 [01:28<00:37,  1.57it/s] 70%|███████   | 138/196 [01:28<00:37,  1.57it/s] 71%|███████   | 139/196 [01:29<00:36,  1.56it/s] 71%|███████▏  | 140/196 [01:30<00:35,  1.56it/s] 72%|███████▏  | 141/196 [01:30<00:35,  1.56it/s] 72%|███████▏  | 142/196 [01:31<00:34,  1.57it/s] 73%|███████▎  | 143/196 [01:32<00:33,  1.56it/s] 73%|███████▎  | 144/196 [01:32<00:33,  1.56it/s] 74%|███████▍  | 145/196 [01:33<00:32,  1.56it/s] 74%|███████▍  | 146/196 [01:33<00:32,  1.55it/s] 75%|███████▌  | 147/196 [01:34<00:31,  1.55it/s] 76%|███████▌  | 148/196 [01:35<00:30,  1.55it/s] 76%|███████▌  | 149/196 [01:35<00:30,  1.56it/s] 77%|███████▋  | 150/196 [01:36<00:29,  1.56it/s] 77%|███████▋  | 151/196 [01:37<00:28,  1.56it/s] 78%|███████▊  | 152/196 [01:37<00:28,  1.56it/s] 78%|███████▊  | 153/196 [01:38<00:27,  1.56it/s] 79%|███████▊  | 154/196 [01:39<00:26,  1.56it/s] 79%|███████▉  | 155/196 [01:39<00:26,  1.57it/s] 80%|███████▉  | 156/196 [01:40<00:25,  1.57it/s] 80%|████████  | 157/196 [01:40<00:24,  1.57it/s] 81%|████████  | 158/196 [01:41<00:24,  1.57it/s] 81%|████████  | 159/196 [01:42<00:23,  1.57it/s] 82%|████████▏ | 160/196 [01:42<00:22,  1.57it/s] 82%|████████▏ | 161/196 [01:43<00:22,  1.57it/s] 83%|████████▎ | 162/196 [01:44<00:21,  1.56it/s] 83%|████████▎ | 163/196 [01:44<00:21,  1.56it/s] 84%|████████▎ | 164/196 [01:45<00:20,  1.57it/s] 84%|████████▍ | 165/196 [01:46<00:19,  1.57it/s] 85%|████████▍ | 166/196 [01:46<00:19,  1.57it/s] 85%|████████▌ | 167/196 [01:47<00:18,  1.57it/s] 86%|████████▌ | 168/196 [01:48<00:17,  1.57it/s] 86%|████████▌ | 169/196 [01:48<00:17,  1.57it/s] 87%|████████▋ | 170/196 [01:49<00:16,  1.57it/s] 87%|████████▋ | 171/196 [01:49<00:15,  1.57it/s] 88%|████████▊ | 172/196 [01:50<00:15,  1.57it/s] 88%|████████▊ | 173/196 [01:51<00:14,  1.57it/s] 89%|████████▉ | 174/196 [01:51<00:14,  1.57it/s] 89%|████████▉ | 175/196 [01:52<00:13,  1.56it/s] 90%|████████▉ | 176/196 [01:53<00:12,  1.56it/s] 90%|█████████ | 177/196 [01:53<00:12,  1.56it/s] 91%|█████████ | 178/196 [01:54<00:11,  1.56it/s] 91%|█████████▏| 179/196 [01:55<00:10,  1.56it/s] 92%|█████████▏| 180/196 [01:55<00:10,  1.56it/s] 92%|█████████▏| 181/196 [01:56<00:09,  1.56it/s] 93%|█████████▎| 182/196 [01:56<00:08,  1.56it/s] 93%|█████████▎| 183/196 [01:57<00:08,  1.56it/s] 94%|█████████▍| 184/196 [01:58<00:07,  1.56it/s] 94%|█████████▍| 185/196 [01:58<00:07,  1.56it/s] 95%|█████████▍| 186/196 [01:59<00:06,  1.56it/s] 95%|█████████▌| 187/196 [02:00<00:05,  1.56it/s] 96%|█████████▌| 188/196 [02:00<00:05,  1.56it/s] 96%|█████████▋| 189/196 [02:01<00:04,  1.56it/s] 97%|█████████▋| 190/196 [02:02<00:03,  1.57it/s] 97%|█████████▋| 191/196 [02:02<00:03,  1.57it/s] 98%|█████████▊| 192/196 [02:03<00:02,  1.57it/s] 98%|█████████▊| 193/196 [02:03<00:01,  1.57it/s] 99%|█████████▉| 194/196 [02:04<00:01,  1.56it/s] 99%|█████████▉| 195/196 [02:05<00:00,  1.56it/s]100%|██████████| 196/196 [02:05<00:00,  1.93it/s]100%|██████████| 196/196 [02:05<00:00,  1.56it/s]
-Extracting test features of cifar100 with mocov3 ...
-Files already downloaded and verified
-[MoCo v3] <All keys matched successfully>
-  0%|          | 0/40 [00:00<?, ?it/s]  2%|▎         | 1/40 [00:01<01:07,  1.73s/it]  5%|▌         | 2/40 [00:02<00:41,  1.09s/it]  8%|▊         | 3/40 [00:03<00:32,  1.13it/s] 10%|█         | 4/40 [00:03<00:28,  1.27it/s] 12%|█▎        | 5/40 [00:04<00:25,  1.36it/s] 15%|█▌        | 6/40 [00:04<00:23,  1.43it/s] 18%|█▊        | 7/40 [00:05<00:22,  1.47it/s] 20%|██        | 8/40 [00:06<00:21,  1.50it/s] 22%|██▎       | 9/40 [00:06<00:20,  1.52it/s] 25%|██▌       | 10/40 [00:07<00:19,  1.54it/s] 28%|██▊       | 11/40 [00:08<00:18,  1.54it/s] 30%|███       | 12/40 [00:08<00:18,  1.55it/s] 32%|███▎      | 13/40 [00:09<00:17,  1.56it/s] 35%|███▌      | 14/40 [00:10<00:16,  1.56it/s] 38%|███▊      | 15/40 [00:10<00:15,  1.57it/s] 40%|████      | 16/40 [00:11<00:15,  1.57it/s] 42%|████▎     | 17/40 [00:11<00:14,  1.56it/s] 45%|████▌     | 18/40 [00:12<00:14,  1.57it/s] 48%|████▊     | 19/40 [00:13<00:13,  1.56it/s] 50%|█████     | 20/40 [00:13<00:12,  1.56it/s] 52%|█████▎    | 21/40 [00:14<00:12,  1.56it/s] 55%|█████▌    | 22/40 [00:15<00:11,  1.56it/s] 57%|█████▊    | 23/40 [00:15<00:10,  1.56it/s] 60%|██████    | 24/40 [00:16<00:10,  1.57it/s] 62%|██████▎   | 25/40 [00:17<00:09,  1.57it/s] 65%|██████▌   | 26/40 [00:17<00:08,  1.57it/s] 68%|██████▊   | 27/40 [00:18<00:08,  1.57it/s] 70%|███████   | 28/40 [00:18<00:07,  1.57it/s] 72%|███████▎  | 29/40 [00:19<00:07,  1.57it/s] 75%|███████▌  | 30/40 [00:20<00:06,  1.57it/s] 78%|███████▊  | 31/40 [00:20<00:05,  1.57it/s] 80%|████████  | 32/40 [00:21<00:05,  1.57it/s] 82%|████████▎ | 33/40 [00:22<00:04,  1.57it/s] 85%|████████▌ | 34/40 [00:22<00:03,  1.57it/s] 88%|████████▊ | 35/40 [00:23<00:03,  1.57it/s] 90%|█████████ | 36/40 [00:24<00:02,  1.57it/s] 92%|█████████▎| 37/40 [00:24<00:01,  1.57it/s] 95%|█████████▌| 38/40 [00:25<00:01,  1.57it/s] 98%|█████████▊| 39/40 [00:25<00:00,  1.57it/s]100%|██████████| 40/40 [00:26<00:00,  1.53it/s]
-Task  1/10: accuracy = 57.20
-Task  2/10: accuracy = 43.50
-Task  3/10: accuracy = 41.93
-Task  4/10: accuracy = 41.30
-Task  5/10: accuracy = 37.96
-Task  6/10: accuracy = 34.97
-Task  7/10: accuracy = 34.31
-Task  8/10: accuracy = 33.83
-Task  9/10: accuracy = 32.40
-Task 10/10: accuracy = 31.23
-Last accuracy: 31.23 | Average accuracy: 38.86
-Head accuracy: 92.10 | Tail accuracy: 5.14
-Task  1/10: accuracy = 67.80
-Task  2/10: accuracy = 61.60
-Task  3/10: accuracy = 61.57
-Task  4/10: accuracy = 61.25
-Task  5/10: accuracy = 59.34
-Task  6/10: accuracy = 53.85
-Task  7/10: accuracy = 53.70
-Task  8/10: accuracy = 53.80
-Task  9/10: accuracy = 52.20
-Task 10/10: accuracy = 51.19
-Last accuracy: 51.19 | Average accuracy: 57.63
-Head accuracy: 91.47 | Tail accuracy: 33.93
-Task  1/10: accuracy = 67.10
-Task  2/10: accuracy = 63.95
-Task  3/10: accuracy = 63.87
-Task  4/10: accuracy = 63.87
-Task  5/10: accuracy = 61.66
-Task  6/10: accuracy = 56.25
-Task  7/10: accuracy = 57.24
-Task  8/10: accuracy = 58.14
-Task  9/10: accuracy = 57.16
-Task 10/10: accuracy = 56.07
-Last accuracy: 56.07 | Average accuracy: 60.53
-Head accuracy: 91.23 | Tail accuracy: 41.00
-Task  1/10: accuracy = 86.60
-Task  2/10: accuracy = 81.80
-Task  3/10: accuracy = 80.70
-Task  4/10: accuracy = 77.20
-Task  5/10: accuracy = 75.68
-Task  6/10: accuracy = 72.53
-Task  7/10: accuracy = 70.49
-Task  8/10: accuracy = 69.83
-Task  9/10: accuracy = 67.37
-Task 10/10: accuracy = 66.02
-Last accuracy: 66.02 | Average accuracy: 74.82
-Head accuracy: 66.37 | Tail accuracy: 65.87
-Task  1/10: accuracy = 69.50
-Task  2/10: accuracy = 58.55
-Task  3/10: accuracy = 46.67
-Task  4/10: accuracy = 42.20
-Task  5/10: accuracy = 38.62
-Task  6/10: accuracy = 35.47
-Task  7/10: accuracy = 34.47
-Task  8/10: accuracy = 33.31
-Task  9/10: accuracy = 31.84
-Task 10/10: accuracy = 30.85
-Last accuracy: 30.85 | Average accuracy: 42.15
-Head accuracy: 90.20 | Tail accuracy: 5.41
-Task  1/10: accuracy = 78.80
-Task  2/10: accuracy = 73.80
-Task  3/10: accuracy = 65.50
-Task  4/10: accuracy = 62.30
-Task  5/10: accuracy = 59.64
-Task  6/10: accuracy = 57.30
-Task  7/10: accuracy = 56.54
-Task  8/10: accuracy = 55.83
-Task  9/10: accuracy = 53.93
-Task 10/10: accuracy = 54.09
-Last accuracy: 54.09 | Average accuracy: 61.77
-Head accuracy: 90.00 | Tail accuracy: 38.70
-Task  1/10: accuracy = 77.80
-Task  2/10: accuracy = 72.65
-Task  3/10: accuracy = 65.97
-Task  4/10: accuracy = 63.35
-Task  5/10: accuracy = 61.00
-Task  6/10: accuracy = 59.60
-Task  7/10: accuracy = 59.03
-Task  8/10: accuracy = 58.98
-Task  9/10: accuracy = 57.63
-Task 10/10: accuracy = 57.99
-Last accuracy: 57.99 | Average accuracy: 63.40
-Head accuracy: 89.97 | Tail accuracy: 44.29
-Task  1/10: accuracy = 94.90
-Task  2/10: accuracy = 90.40
-Task  3/10: accuracy = 84.03
-Task  4/10: accuracy = 78.50
-Task  5/10: accuracy = 75.36
-Task  6/10: accuracy = 72.63
-Task  7/10: accuracy = 70.89
-Task  8/10: accuracy = 69.79
-Task  9/10: accuracy = 66.84
-Task 10/10: accuracy = 66.41
-Last accuracy: 66.41 | Average accuracy: 76.98
-Head accuracy: 66.60 | Tail accuracy: 66.33
-Task  1/10: accuracy = 69.40
-Task  2/10: accuracy = 57.25
-Task  3/10: accuracy = 50.60
-Task  4/10: accuracy = 42.50
-Task  5/10: accuracy = 40.84
-Task  6/10: accuracy = 39.28
-Task  7/10: accuracy = 37.31
-Task  8/10: accuracy = 34.61
-Task  9/10: accuracy = 32.16
-Task 10/10: accuracy = 30.24
-Last accuracy: 30.24 | Average accuracy: 43.42
-Head accuracy: 94.47 | Tail accuracy: 2.71
-Task  1/10: accuracy = 77.70
-Task  2/10: accuracy = 72.95
-Task  3/10: accuracy = 68.33
-Task  4/10: accuracy = 62.00
-Task  5/10: accuracy = 62.70
-Task  6/10: accuracy = 62.40
-Task  7/10: accuracy = 59.00
-Task  8/10: accuracy = 55.44
-Task  9/10: accuracy = 53.56
-Task 10/10: accuracy = 52.08
-Last accuracy: 52.08 | Average accuracy: 62.62
-Head accuracy: 94.50 | Tail accuracy: 33.90
-Task  1/10: accuracy = 77.80
-Task  2/10: accuracy = 71.80
-Task  3/10: accuracy = 69.87
-Task  4/10: accuracy = 65.42
-Task  5/10: accuracy = 66.38
-Task  6/10: accuracy = 66.72
-Task  7/10: accuracy = 63.83
-Task  8/10: accuracy = 60.40
-Task  9/10: accuracy = 58.87
-Task 10/10: accuracy = 58.12
-Last accuracy: 58.12 | Average accuracy: 65.92
-Head accuracy: 94.20 | Tail accuracy: 42.66
-Task  1/10: accuracy = 94.40
-Task  2/10: accuracy = 87.45
-Task  3/10: accuracy = 83.30
-Task  4/10: accuracy = 78.20
-Task  5/10: accuracy = 77.18
-Task  6/10: accuracy = 76.12
-Task  7/10: accuracy = 72.93
-Task  8/10: accuracy = 69.27
-Task  9/10: accuracy = 66.61
-Task 10/10: accuracy = 65.77
-Last accuracy: 65.77 | Average accuracy: 77.12
-Head accuracy: 67.00 | Tail accuracy: 65.24
