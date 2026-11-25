@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+features/
+logs/
+sweeps/
+*.pth
+*.pth.tar
+log*
+check/
+configs/

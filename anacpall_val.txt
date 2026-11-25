@@ -1,0 +1,215 @@
+sweeps/anacpall_dinov2_cifar100_lp0.25_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cifar100_lp0.25_tr1.log-   81.52  head= 94.28 tail= 76.05  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cifar100_lp0.25_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cifar100_lp0.25_tr2.log-   81.65  head= 94.12 tail= 76.30  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cifar100_lp0.25_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cifar100_lp0.25_tr4.log-   81.79  head= 93.88 tail= 76.60  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cifar100_lp0.5_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cifar100_lp0.5_tr1.log-   82.80  head= 84.76 tail= 81.96  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cifar100_lp0.5_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cifar100_lp0.5_tr2.log-   82.89  head= 90.51 tail= 79.63  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cifar100_lp0.5_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cifar100_lp0.5_tr4.log-   82.82  head= 84.52 tail= 82.10  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cifar100_lp0_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cifar100_lp0_tr1.log-   72.25  head= 95.82 tail= 62.14  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cifar100_lp0_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cifar100_lp0_tr2.log-   72.78  head= 95.77 tail= 62.93  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cifar100_lp0_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cifar100_lp0_tr4.log-   73.33  head= 95.69 tail= 63.75  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cub_lp0.25_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cub_lp0.25_tr1.log-   85.56  head= 91.11 tail= 83.17  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cub_lp0.25_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cub_lp0.25_tr2.log-   85.58  head= 91.48 tail= 83.06  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cub_lp0.25_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cub_lp0.25_tr4.log-   85.31  head= 91.76 tail= 82.54  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cub_lp0.5_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cub_lp0.5_tr1.log-   85.89  head= 90.93 tail= 83.73  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cub_lp0.5_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cub_lp0.5_tr2.log-   85.86  head= 91.02 tail= 83.65  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cub_lp0.5_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cub_lp0.5_tr4.log-   85.92  head= 91.48 tail= 83.53  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cub_lp0_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cub_lp0_tr1.log-   84.00  head= 93.24 tail= 80.04  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cub_lp0_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cub_lp0_tr2.log-   83.72  head= 93.33 tail= 79.60  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_cub_lp0_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_cub_lp0_tr4.log-   83.47  head= 93.43 tail= 79.21  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_imagenet-r_lp0.25_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_imagenet-r_lp0.25_tr1.log-   71.56  head= 85.94 tail= 65.20  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_imagenet-r_lp0.25_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_imagenet-r_lp0.25_tr2.log-   71.50  head= 86.01 tail= 65.06  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_imagenet-r_lp0.25_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_imagenet-r_lp0.25_tr4.log-   71.21  head= 85.82 tail= 64.69  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_imagenet-r_lp0.5_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_imagenet-r_lp0.5_tr1.log-   72.39  head= 77.94 tail= 69.93  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_imagenet-r_lp0.5_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_imagenet-r_lp0.5_tr2.log-   72.43  head= 78.45 tail= 69.75  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_imagenet-r_lp0.5_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_imagenet-r_lp0.5_tr4.log-   72.27  head= 78.30 tail= 69.59  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_imagenet-r_lp0_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_imagenet-r_lp0_tr1.log-   66.11  head= 88.48 tail= 56.12  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_imagenet-r_lp0_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_imagenet-r_lp0_tr2.log-   65.99  head= 88.49 tail= 55.93  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_imagenet-r_lp0_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_imagenet-r_lp0_tr4.log-   65.91  head= 88.31 tail= 55.90  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_t-imagenet_lp0.25_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_t-imagenet_lp0.25_tr1.log-   79.16  head= 90.38 tail= 74.35  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_t-imagenet_lp0.25_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_t-imagenet_lp0.25_tr2.log-   79.23  head= 90.21 tail= 74.53  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_t-imagenet_lp0.25_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_t-imagenet_lp0.25_tr4.log-   79.36  head= 89.93 tail= 74.82  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_t-imagenet_lp0.5_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_t-imagenet_lp0.5_tr1.log-   79.86  head= 85.27 tail= 77.54  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_t-imagenet_lp0.5_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_t-imagenet_lp0.5_tr2.log-   79.75  head= 84.44 tail= 77.74  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_t-imagenet_lp0.5_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_t-imagenet_lp0.5_tr4.log-   79.61  head= 83.39 tail= 77.99  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_t-imagenet_lp0_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_t-imagenet_lp0_tr1.log-   71.69  head= 92.96 tail= 62.57  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_t-imagenet_lp0_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_t-imagenet_lp0_tr2.log-   72.11  head= 92.94 tail= 63.18  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_dinov2_t-imagenet_lp0_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_dinov2_t-imagenet_lp0_tr4.log-   72.64  head= 92.85 tail= 63.98  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cifar100_lp0.25_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cifar100_lp0.25_tr1.log-   68.22  head= 82.53 tail= 62.08  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cifar100_lp0.25_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cifar100_lp0.25_tr2.log-   68.39  head= 81.56 tail= 62.75  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cifar100_lp0.25_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cifar100_lp0.25_tr4.log-   68.49  head= 80.16 tail= 63.49  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cifar100_lp0.5_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cifar100_lp0.5_tr1.log-   67.18  head= 73.02 tail= 64.67  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cifar100_lp0.5_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cifar100_lp0.5_tr2.log-   66.84  head= 70.57 tail= 65.25  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cifar100_lp0.5_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cifar100_lp0.5_tr4.log-   66.45  head= 68.19 tail= 65.71  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cifar100_lp0_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cifar100_lp0_tr1.log-   60.13  head= 90.32 tail= 47.20  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cifar100_lp0_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cifar100_lp0_tr2.log-   61.29  head= 90.09 tail= 48.94  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cifar100_lp0_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cifar100_lp0_tr4.log-   62.48  head= 89.61 tail= 50.86  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cub_lp0.25_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cub_lp0.25_tr1.log-   55.50  head= 71.20 tail= 48.77  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cub_lp0.25_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cub_lp0.25_tr2.log-   55.00  head= 71.85 tail= 47.78  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cub_lp0.25_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cub_lp0.25_tr4.log-   54.86  head= 73.06 tail= 47.06  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cub_lp0.5_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cub_lp0.5_tr1.log-   54.69  head= 67.41 tail= 49.25  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cub_lp0.5_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cub_lp0.5_tr2.log-   55.19  head= 67.50 tail= 49.92  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cub_lp0.5_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cub_lp0.5_tr4.log-   55.33  head= 67.69 tail= 50.04  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cub_lp0_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cub_lp0_tr1.log-   52.28  head= 77.41 tail= 41.51  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cub_lp0_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cub_lp0_tr2.log-   51.36  head= 77.41 tail= 40.20  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_cub_lp0_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_cub_lp0_tr4.log-   51.22  head= 77.96 tail= 39.76  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_imagenet-r_lp0.25_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_imagenet-r_lp0.25_tr1.log-   39.78  head= 55.15 tail= 33.03  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_imagenet-r_lp0.25_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_imagenet-r_lp0.25_tr2.log-   39.63  head= 60.04 tail= 30.61  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_imagenet-r_lp0.25_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_imagenet-r_lp0.25_tr4.log-   39.19  head= 57.01 tail= 31.30  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_imagenet-r_lp0.5_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_imagenet-r_lp0.5_tr1.log-   37.92  head= 48.09 tail= 33.41  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_imagenet-r_lp0.5_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_imagenet-r_lp0.5_tr2.log-   37.54  head= 45.25 tail= 34.11  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_imagenet-r_lp0.5_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_imagenet-r_lp0.5_tr4.log-   36.50  head= 41.47 tail= 34.25  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_imagenet-r_lp0_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_imagenet-r_lp0_tr1.log-   38.18  head= 65.45 tail= 26.12  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_imagenet-r_lp0_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_imagenet-r_lp0_tr2.log-   38.21  head= 63.39 tail= 27.05  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_imagenet-r_lp0_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_imagenet-r_lp0_tr4.log-   37.56  head= 60.26 tail= 27.53  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_t-imagenet_lp0.25_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_t-imagenet_lp0.25_tr1.log-   69.72  head= 77.36 tail= 66.45  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_t-imagenet_lp0.25_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_t-imagenet_lp0.25_tr2.log-   69.59  head= 75.56 tail= 67.03  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_t-imagenet_lp0.25_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_t-imagenet_lp0.25_tr4.log-   69.56  head= 79.36 tail= 65.36  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_t-imagenet_lp0.5_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_t-imagenet_lp0.5_tr1.log-   66.73  head= 64.51 tail= 67.68  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_t-imagenet_lp0.5_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_t-imagenet_lp0.5_tr2.log-   66.26  head= 62.19 tail= 68.00  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_t-imagenet_lp0.5_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_t-imagenet_lp0.5_tr4.log-   65.42  head= 58.61 tail= 68.34  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_t-imagenet_lp0_tr1.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_t-imagenet_lp0_tr1.log-   64.73  head= 86.34 tail= 55.47  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_t-imagenet_lp0_tr2.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_t-imagenet_lp0_tr2.log-   65.76  head= 86.02 tail= 57.07  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+--
+sweeps/anacpall_mocov3_t-imagenet_lp0_tr4.log:Validation ranking (last accuracy, mean over seeds)
+sweeps/anacpall_mocov3_t-imagenet_lp0_tr4.log-   66.89  head= 85.31 tail= 59.00  reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)

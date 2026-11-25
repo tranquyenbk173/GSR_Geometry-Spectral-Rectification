@@ -1,0 +1,431 @@
+==> sweeps/anacpall_dinov2_cifar100_lp0.25_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=74.39+-0.52  avg=79.68+-1.24  head=95.36+-1.01  tail=65.41+-0.59  | no GSR, reg=1000
+  reg=100.0              last=78.14+-0.28  avg=83.72+-1.06  head=95.21+-0.95  tail=70.82+-0.30  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=81.04+-0.23  avg=86.88+-0.92  head=93.92+-1.21  tail=75.52+-0.21  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cifar100_lp0.25_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=74.39+-0.52  avg=79.68+-1.24  head=95.36+-1.01  tail=65.41+-0.59  | no GSR, reg=1000
+  reg=100.0              last=78.51+-0.33  avg=84.05+-1.03  head=95.03+-1.01  tail=71.42+-0.31  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=81.20+-0.13  avg=86.99+-0.89  head=93.73+-1.21  tail=75.83+-0.35  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cifar100_lp0.25_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=74.39+-0.52  avg=79.68+-1.24  head=95.36+-1.01  tail=65.41+-0.59  | no GSR, reg=1000
+  reg=100.0              last=78.99+-0.20  avg=84.31+-0.96  head=94.96+-0.98  tail=72.15+-0.33  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=81.43+-0.21  avg=87.09+-0.84  head=93.48+-1.34  tail=76.26+-0.32  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cifar100_lp0.5_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=74.39+-0.52  avg=79.68+-1.24  head=95.36+-1.01  tail=65.41+-0.59  | no GSR, reg=1000
+  reg=100.0              last=82.60+-0.36  avg=88.23+-0.68  head=89.99+-1.30  tail=79.43+-0.27  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=82.16+-0.36  avg=88.53+-0.57  head=83.33+-1.97  tail=81.66+-0.47  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cifar100_lp0.5_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=74.39+-0.52  avg=79.68+-1.24  head=95.36+-1.01  tail=65.41+-0.59  | no GSR, reg=1000
+  reg=100.0              last=82.51+-0.36  avg=88.30+-0.62  head=89.33+-1.41  tail=79.59+-0.24  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=82.14+-0.29  avg=88.55+-0.57  head=83.07+-1.91  tail=81.74+-0.45  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cifar100_lp0.5_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=74.39+-0.52  avg=79.68+-1.24  head=95.36+-1.01  tail=65.41+-0.59  | no GSR, reg=1000
+  reg=100.0              last=82.46+-0.36  avg=88.25+-0.60  head=88.68+-1.53  tail=79.80+-0.35  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=82.09+-0.32  avg=88.54+-0.57  head=82.73+-1.77  tail=81.81+-0.49  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cifar100_lp0_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=74.39+-0.52  avg=79.68+-1.24  head=95.36+-1.01  tail=65.41+-0.59  | no GSR, reg=1000
+  reg=100.0              last=67.61+-1.10  avg=73.93+-1.94  head=95.91+-1.03  tail=55.48+-1.52  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=71.18+-0.88  avg=77.79+-1.69  head=95.72+-1.09  tail=60.67+-1.22  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cifar100_lp0_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=74.39+-0.52  avg=79.68+-1.24  head=95.36+-1.01  tail=65.41+-0.59  | no GSR, reg=1000
+  reg=100.0              last=68.41+-1.04  avg=74.55+-1.88  head=95.90+-0.99  tail=56.63+-1.42  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=71.73+-0.78  avg=78.35+-1.58  head=95.66+-1.08  tail=61.47+-1.09  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cifar100_lp0_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=74.39+-0.52  avg=79.68+-1.24  head=95.36+-1.01  tail=65.41+-0.59  | no GSR, reg=1000
+  reg=100.0              last=69.33+-1.01  avg=75.07+-1.85  head=95.97+-0.88  tail=57.92+-1.35  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=72.34+-0.78  avg=78.83+-1.49  head=95.62+-0.99  tail=62.36+-1.06  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cub_lp0.25_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=83.56+-0.55  avg=89.07+-0.89  head=94.56+-1.27  tail=78.87+-0.28  | no GSR, reg=100
+  reg=100.0              last=84.85+-0.50  avg=89.81+-0.89  head=93.79+-1.39  tail=81.04+-0.14  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=85.42+-0.46  avg=90.30+-0.73  head=92.17+-1.88  tail=82.53+-0.19  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cub_lp0.25_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=83.56+-0.55  avg=89.07+-0.89  head=94.56+-1.27  tail=78.87+-0.28  | no GSR, reg=100
+  reg=100.0              last=84.67+-0.56  avg=89.75+-0.93  head=93.73+-1.40  tail=80.81+-0.18  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=85.33+-0.49  avg=90.23+-0.75  head=92.55+-1.92  tail=82.25+-0.16  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cub_lp0.25_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=83.56+-0.55  avg=89.07+-0.89  head=94.56+-1.27  tail=78.87+-0.28  | no GSR, reg=100
+  reg=100.0              last=84.62+-0.51  avg=89.73+-0.91  head=93.89+-1.28  tail=80.66+-0.16  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=85.28+-0.41  avg=90.21+-0.78  head=93.02+-1.61  tail=81.98+-0.13  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cub_lp0.5_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=83.56+-0.55  avg=89.07+-0.89  head=94.56+-1.27  tail=78.87+-0.28  | no GSR, reg=100
+  reg=100.0              last=85.80+-0.25  avg=90.53+-0.65  head=91.11+-1.84  tail=83.53+-0.44  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=85.71+-0.10  avg=90.57+-0.47  head=88.42+-2.36  tail=84.55+-0.85  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cub_lp0.5_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=83.56+-0.55  avg=89.07+-0.89  head=94.56+-1.27  tail=78.87+-0.28  | no GSR, reg=100
+  reg=100.0              last=85.85+-0.28  avg=90.53+-0.69  head=91.25+-1.76  tail=83.53+-0.48  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=85.78+-0.07  avg=90.60+-0.47  head=89.22+-2.29  tail=84.30+-0.92  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cub_lp0.5_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=83.56+-0.55  avg=89.07+-0.89  head=94.56+-1.27  tail=78.87+-0.28  | no GSR, reg=100
+  reg=100.0              last=85.89+-0.29  avg=90.54+-0.73  head=91.57+-1.75  tail=83.46+-0.40  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=85.77+-0.10  avg=90.65+-0.55  head=89.63+-2.25  tail=84.12+-0.82  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cub_lp0_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=83.56+-0.55  avg=89.07+-0.89  head=94.56+-1.27  tail=78.87+-0.28  | no GSR, reg=100
+  reg=100.0              last=82.57+-0.48  avg=88.28+-0.97  head=94.91+-1.08  tail=77.31+-0.37  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=83.70+-0.56  avg=89.13+-0.92  head=94.25+-1.58  tail=79.20+-0.18  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cub_lp0_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=83.56+-0.55  avg=89.07+-0.89  head=94.56+-1.27  tail=78.87+-0.28  | no GSR, reg=100
+  reg=100.0              last=82.50+-0.48  avg=88.22+-1.04  head=94.83+-1.08  tail=77.25+-0.26  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=83.58+-0.45  avg=88.99+-0.90  head=94.40+-1.46  tail=78.97+-0.21  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_cub_lp0_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=83.56+-0.55  avg=89.07+-0.89  head=94.56+-1.27  tail=78.87+-0.28  | no GSR, reg=100
+  reg=100.0              last=82.46+-0.60  avg=88.17+-1.08  head=94.93+-1.06  tail=77.15+-0.48  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=83.34+-0.54  avg=88.88+-0.99  head=94.60+-1.37  tail=78.54+-0.28  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_imagenet-r_lp0.25_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=68.17+-0.03  avg=73.07+-0.02  head=89.20+-0.58  tail=58.88+-1.11  | no GSR, reg=1000
+  reg=100.0              last=68.99+-0.43  avg=73.82+-0.19  head=88.77+-0.73  tail=60.18+-1.59  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=71.96+-0.69  avg=77.67+-0.43  head=87.20+-0.70  tail=65.16+-1.92  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_imagenet-r_lp0.25_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=68.17+-0.03  avg=73.07+-0.02  head=89.20+-0.58  tail=58.88+-1.11  | no GSR, reg=1000
+  reg=100.0              last=69.09+-0.69  avg=73.98+-0.29  head=88.41+-0.55  tail=60.49+-1.76  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=71.95+-0.69  avg=77.59+-0.46  head=87.15+-0.75  tail=65.17+-1.95  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_imagenet-r_lp0.25_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=68.17+-0.03  avg=73.07+-0.02  head=89.20+-0.58  tail=58.88+-1.11  | no GSR, reg=1000
+  reg=100.0              last=69.24+-0.61  avg=74.15+-0.25  head=88.08+-0.63  tail=60.84+-1.72  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=71.70+-0.86  avg=77.41+-0.46  head=86.76+-0.61  tail=64.98+-2.05  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_imagenet-r_lp0.5_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=68.17+-0.03  avg=73.07+-0.02  head=89.20+-0.58  tail=58.88+-1.11  | no GSR, reg=1000
+  reg=100.0              last=72.43+-0.77  avg=78.10+-0.48  head=84.42+-0.91  tail=67.08+-1.98  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=72.54+-0.73  avg=79.23+-0.34  head=78.54+-1.21  tail=69.84+-1.91  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_imagenet-r_lp0.5_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=68.17+-0.03  avg=73.07+-0.02  head=89.20+-0.58  tail=58.88+-1.11  | no GSR, reg=1000
+  reg=100.0              last=72.34+-0.81  avg=78.13+-0.43  head=83.85+-0.97  tail=67.18+-2.01  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=72.54+-0.95  avg=79.25+-0.43  head=78.62+-0.93  tail=69.81+-2.09  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_imagenet-r_lp0.5_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=68.17+-0.03  avg=73.07+-0.02  head=89.20+-0.58  tail=58.88+-1.11  | no GSR, reg=1000
+  reg=100.0              last=72.16+-0.76  avg=78.08+-0.45  head=83.01+-1.14  tail=67.29+-2.05  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=72.38+-0.94  avg=79.12+-0.44  head=78.64+-0.99  tail=69.55+-2.12  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_imagenet-r_lp0_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=68.17+-0.03  avg=73.07+-0.02  head=89.20+-0.58  tail=58.88+-1.11  | no GSR, reg=1000
+  reg=100.0              last=61.85+-0.15  avg=66.80+-0.45  head=89.70+-0.75  tail=49.46+-1.69  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=65.53+-0.24  avg=71.15+-0.18  head=89.53+-0.66  tail=54.87+-1.68  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_imagenet-r_lp0_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=68.17+-0.03  avg=73.07+-0.02  head=89.20+-0.58  tail=58.88+-1.11  | no GSR, reg=1000
+  reg=100.0              last=62.21+-0.15  avg=67.13+-0.43  head=89.70+-0.67  tail=49.98+-1.70  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=65.73+-0.27  avg=71.26+-0.20  head=89.47+-0.63  tail=55.17+-1.62  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_imagenet-r_lp0_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=68.17+-0.03  avg=73.07+-0.02  head=89.20+-0.58  tail=58.88+-1.11  | no GSR, reg=1000
+  reg=100.0              last=62.59+-0.18  avg=67.35+-0.39  head=89.60+-0.77  tail=50.58+-1.65  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=65.83+-0.30  avg=71.37+-0.15  head=89.34+-0.74  tail=55.37+-1.63  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_t-imagenet_lp0.25_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=73.20+-0.29  avg=77.90+-0.98  head=91.88+-0.16  tail=65.20+-0.43  | no GSR, reg=1000
+  reg=100.0              last=77.52+-0.17  avg=81.00+-1.31  head=91.20+-0.53  tail=71.65+-0.45  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=79.29+-0.28  avg=83.76+-1.08  head=90.04+-0.40  tail=74.68+-0.56  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_t-imagenet_lp0.25_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=73.20+-0.29  avg=77.90+-0.98  head=91.88+-0.16  tail=65.20+-0.43  | no GSR, reg=1000
+  reg=100.0              last=77.93+-0.22  avg=81.38+-1.30  head=91.03+-0.49  tail=72.31+-0.49  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=79.35+-0.26  avg=83.84+-1.05  head=89.84+-0.45  tail=74.85+-0.55  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_t-imagenet_lp0.25_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=73.20+-0.29  avg=77.90+-0.98  head=91.88+-0.16  tail=65.20+-0.43  | no GSR, reg=1000
+  reg=100.0              last=78.38+-0.15  avg=81.66+-1.26  head=90.83+-0.47  tail=73.05+-0.33  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=79.52+-0.27  avg=83.93+-1.01  head=89.66+-0.38  tail=75.18+-0.52  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_t-imagenet_lp0.5_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=73.20+-0.29  avg=77.90+-0.98  head=91.88+-0.16  tail=65.20+-0.43  | no GSR, reg=1000
+  reg=100.0              last=79.90+-0.02  avg=84.79+-0.82  head=84.13+-0.54  tail=78.09+-0.25  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=79.21+-0.07  avg=84.75+-0.74  head=78.73+-0.49  tail=79.41+-0.11  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_t-imagenet_lp0.5_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=73.20+-0.29  avg=77.90+-0.98  head=91.88+-0.16  tail=65.20+-0.43  | no GSR, reg=1000
+  reg=100.0              last=79.78+-0.08  avg=84.81+-0.80  head=83.31+-0.59  tail=78.26+-0.20  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=79.07+-0.12  avg=84.70+-0.72  head=78.22+-0.63  tail=79.43+-0.14  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_t-imagenet_lp0.5_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=73.20+-0.29  avg=77.90+-0.98  head=91.88+-0.16  tail=65.20+-0.43  | no GSR, reg=1000
+  reg=100.0              last=79.58+-0.13  avg=84.79+-0.79  head=82.13+-0.73  tail=78.49+-0.15  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=78.90+-0.17  avg=84.69+-0.73  head=77.70+-0.82  tail=79.41+-0.14  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_t-imagenet_lp0_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=73.20+-0.29  avg=77.90+-0.98  head=91.88+-0.16  tail=65.20+-0.43  | no GSR, reg=1000
+  reg=100.0              last=68.62+-0.50  avg=72.06+-1.46  head=92.91+-0.63  tail=58.21+-0.75  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=70.83+-0.46  avg=75.12+-1.26  head=92.80+-0.66  tail=61.42+-0.69  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_t-imagenet_lp0_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=73.20+-0.29  avg=77.90+-0.98  head=91.88+-0.16  tail=65.20+-0.43  | no GSR, reg=1000
+  reg=100.0              last=69.39+-0.50  avg=72.66+-1.44  head=92.87+-0.64  tail=59.33+-0.70  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=71.29+-0.46  avg=75.53+-1.25  head=92.71+-0.61  tail=62.11+-0.70  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_dinov2_t-imagenet_lp0_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=73.20+-0.29  avg=77.90+-0.98  head=91.88+-0.16  tail=65.20+-0.43  | no GSR, reg=1000
+  reg=100.0              last=70.20+-0.47  avg=73.20+-1.39  head=92.93+-0.66  tail=60.45+-0.64  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=71.90+-0.35  avg=75.92+-1.23  head=92.70+-0.57  tail=62.99+-0.58  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cifar100_lp0.25_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=60.14+-0.72  avg=68.31+-1.39  head=88.80+-1.38  tail=47.86+-1.07  | no GSR, reg=1000
+  reg=100.0              last=67.16+-0.75  avg=75.33+-1.57  head=88.40+-1.23  tail=58.06+-0.83  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=68.51+-0.18  avg=77.50+-1.11  head=83.61+-1.12  tail=62.03+-0.31  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cifar100_lp0.25_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=60.14+-0.72  avg=68.31+-1.39  head=88.80+-1.38  tail=47.86+-1.07  | no GSR, reg=1000
+  reg=100.0              last=67.82+-0.65  avg=75.93+-1.59  head=87.48+-1.15  tail=59.39+-0.74  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=68.64+-0.19  avg=77.70+-1.09  head=82.43+-0.97  tail=62.73+-0.36  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cifar100_lp0.25_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=60.14+-0.72  avg=68.31+-1.39  head=88.80+-1.38  tail=47.86+-1.07  | no GSR, reg=1000
+  reg=100.0              last=68.18+-0.45  avg=76.41+-1.50  head=86.24+-1.10  tail=60.44+-0.60  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=68.76+-0.21  avg=77.79+-1.08  head=80.90+-1.08  tail=63.56+-0.26  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cifar100_lp0.5_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=60.14+-0.72  avg=68.31+-1.39  head=88.80+-1.38  tail=47.86+-1.07  | no GSR, reg=1000
+  reg=100.0              last=67.07+-0.27  avg=76.97+-1.10  head=71.86+-0.32  tail=65.01+-0.32  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=63.65+-0.26  avg=74.67+-0.63  head=56.87+-0.37  tail=66.55+-0.52  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cifar100_lp0.5_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=60.14+-0.72  avg=68.31+-1.39  head=88.80+-1.38  tail=47.86+-1.07  | no GSR, reg=1000
+  reg=100.0              last=66.70+-0.24  avg=76.65+-1.10  head=69.49+-0.18  tail=65.50+-0.36  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=63.20+-0.24  avg=74.44+-0.63  head=54.86+-0.49  tail=66.78+-0.53  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cifar100_lp0.5_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=60.14+-0.72  avg=68.31+-1.39  head=88.80+-1.38  tail=47.86+-1.07  | no GSR, reg=1000
+  reg=100.0              last=66.07+-0.26  avg=76.31+-1.05  head=66.66+-0.26  tail=65.81+-0.45  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=62.61+-0.23  avg=74.04+-0.67  head=52.03+-0.52  tail=67.14+-0.55  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cifar100_lp0_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=60.14+-0.72  avg=68.31+-1.39  head=88.80+-1.38  tail=47.86+-1.07  | no GSR, reg=1000
+  reg=100.0              last=57.29+-1.05  avg=65.50+-2.12  head=92.17+-1.60  tail=42.35+-1.81  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=59.93+-0.66  avg=68.99+-1.71  head=90.97+-1.90  tail=46.63+-1.44  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cifar100_lp0_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=60.14+-0.72  avg=68.31+-1.39  head=88.80+-1.38  tail=47.86+-1.07  | no GSR, reg=1000
+  reg=100.0              last=58.58+-0.82  avg=66.70+-2.05  head=92.07+-1.77  tail=44.22+-1.56  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=61.08+-0.51  avg=69.97+-1.64  head=90.69+-1.92  tail=48.39+-1.23  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cifar100_lp0_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=60.14+-0.72  avg=68.31+-1.39  head=88.80+-1.38  tail=47.86+-1.07  | no GSR, reg=1000
+  reg=100.0              last=59.97+-0.81  avg=67.86+-2.00  head=91.90+-1.70  tail=46.28+-1.40  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=62.25+-0.52  avg=70.87+-1.60  head=90.33+-1.95  tail=50.22+-1.12  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cub_lp0.25_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=56.40+-0.89  avg=62.13+-1.12  head=80.38+-1.62  tail=46.16+-0.76  | no GSR, reg=1000
+  reg=100.0              last=54.64+-0.74  avg=64.00+-1.27  head=78.32+-1.84  tail=44.52+-0.30  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=56.40+-0.72  avg=64.80+-1.50  head=73.28+-2.14  tail=49.18+-0.29  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cub_lp0.25_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=56.40+-0.89  avg=62.13+-1.12  head=80.38+-1.62  tail=46.16+-0.76  | no GSR, reg=1000
+  reg=100.0              last=54.77+-0.73  avg=63.97+-1.15  head=78.58+-1.38  tail=44.59+-0.45  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=56.30+-0.84  avg=64.55+-1.48  head=74.74+-2.12  tail=48.41+-0.31  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cub_lp0.25_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=56.40+-0.89  avg=62.13+-1.12  head=80.38+-1.62  tail=46.16+-0.76  | no GSR, reg=1000
+  reg=100.0              last=54.81+-0.77  avg=64.04+-1.18  head=78.67+-1.73  tail=44.60+-0.44  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=55.87+-0.72  avg=64.33+-1.44  head=75.69+-2.10  tail=47.39+-0.16  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cub_lp0.5_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=56.40+-0.89  avg=62.13+-1.12  head=80.38+-1.62  tail=46.16+-0.76  | no GSR, reg=1000
+  reg=100.0              last=55.77+-0.70  avg=65.31+-1.07  head=69.31+-1.54  tail=49.96+-0.31  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=54.70+-0.61  avg=63.83+-1.33  head=58.68+-2.05  tail=52.97+-0.27  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cub_lp0.5_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=56.40+-0.89  avg=62.13+-1.12  head=80.38+-1.62  tail=46.16+-0.76  | no GSR, reg=1000
+  reg=100.0              last=55.86+-0.78  avg=65.38+-1.05  head=69.89+-1.69  tail=49.86+-0.38  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=55.15+-0.68  avg=64.17+-1.36  head=61.47+-1.85  tail=52.42+-0.18  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cub_lp0.5_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=56.40+-0.89  avg=62.13+-1.12  head=80.38+-1.62  tail=46.16+-0.76  | no GSR, reg=1000
+  reg=100.0              last=56.02+-0.66  avg=65.49+-1.07  head=70.23+-1.92  tail=49.93+-0.11  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=55.26+-0.70  avg=64.26+-1.33  head=63.26+-2.06  tail=51.81+-0.20  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cub_lp0_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=56.40+-0.89  avg=62.13+-1.12  head=80.38+-1.62  tail=46.16+-0.76  | no GSR, reg=1000
+  reg=100.0              last=49.91+-0.53  avg=59.60+-1.26  head=82.23+-1.65  tail=36.10+-0.51  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=52.93+-0.55  avg=61.58+-1.42  head=80.42+-1.89  tail=41.18+-0.27  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cub_lp0_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=56.40+-0.89  avg=62.13+-1.12  head=80.38+-1.62  tail=46.16+-0.76  | no GSR, reg=1000
+  reg=100.0              last=49.98+-0.59  avg=59.72+-1.20  head=82.62+-1.46  tail=36.05+-0.70  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=52.51+-0.59  avg=61.03+-1.56  head=80.88+-1.80  tail=40.39+-0.63  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_cub_lp0_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=56.40+-0.89  avg=62.13+-1.12  head=80.38+-1.62  tail=46.16+-0.76  | no GSR, reg=1000
+  reg=100.0              last=50.02+-0.60  avg=59.80+-1.28  head=82.73+-1.89  tail=36.05+-0.49  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=51.97+-0.54  avg=60.71+-1.54  head=81.27+-1.56  tail=39.46+-0.58  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_imagenet-r_lp0.25_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=39.25+-0.96  avg=43.98+-2.30  head=69.57+-1.32  tail=25.84+-0.20  | no GSR, reg=1000
+  reg=100.0              last=40.27+-0.61  avg=46.76+-1.93  head=63.97+-2.36  tail=29.75+-0.70  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=40.28+-0.45  avg=48.31+-1.48  head=56.23+-2.32  tail=33.18+-1.04  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_imagenet-r_lp0.25_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=39.25+-0.96  avg=43.98+-2.30  head=69.57+-1.32  tail=25.84+-0.20  | no GSR, reg=1000
+  reg=100.0              last=40.22+-0.55  avg=47.03+-1.84  head=61.83+-1.90  tail=30.63+-0.71  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=39.66+-0.40  avg=48.15+-1.51  head=52.70+-2.58  tail=33.82+-1.19  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_imagenet-r_lp0.25_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=39.25+-0.96  avg=43.98+-2.30  head=69.57+-1.32  tail=25.84+-0.20  | no GSR, reg=1000
+  reg=100.0              last=39.43+-0.33  avg=47.05+-1.68  head=57.07+-2.12  tail=31.55+-0.97  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=38.27+-0.31  avg=47.65+-1.47  head=47.63+-2.30  tail=34.00+-1.20  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_imagenet-r_lp0.5_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=39.25+-0.96  avg=43.98+-2.30  head=69.57+-1.32  tail=25.84+-0.20  | no GSR, reg=1000
+  reg=100.0              last=38.26+-0.12  avg=46.88+-1.33  head=48.16+-2.40  tail=33.75+-1.24  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=36.08+-0.66  avg=45.76+-0.82  head=36.92+-2.19  tail=35.57+-1.72  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_imagenet-r_lp0.5_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=39.25+-0.96  avg=43.98+-2.30  head=69.57+-1.32  tail=25.84+-0.20  | no GSR, reg=1000
+  reg=100.0              last=37.37+-0.43  avg=46.63+-1.11  head=44.69+-2.23  tail=34.01+-1.40  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=35.25+-0.99  avg=45.34+-0.73  head=33.90+-2.06  tail=35.72+-1.75  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_imagenet-r_lp0.5_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=39.25+-0.96  avg=43.98+-2.30  head=69.57+-1.32  tail=25.84+-0.20  | no GSR, reg=1000
+  reg=100.0              last=36.19+-0.79  avg=45.98+-0.96  head=39.96+-1.99  tail=34.38+-1.68  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=34.11+-1.07  avg=44.62+-0.67  head=30.06+-2.01  tail=35.74+-1.75  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_imagenet-r_lp0_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=39.25+-0.96  avg=43.98+-2.30  head=69.57+-1.32  tail=25.84+-0.20  | no GSR, reg=1000
+  reg=100.0              last=36.59+-1.03  avg=41.81+-2.18  head=69.87+-1.91  tail=21.90+-0.45  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=38.76+-0.94  avg=44.75+-1.90  head=67.95+-2.24  tail=25.86+-0.46  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_imagenet-r_lp0_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=39.25+-0.96  avg=43.98+-2.30  head=69.57+-1.32  tail=25.84+-0.20  | no GSR, reg=1000
+  reg=100.0              last=37.52+-0.91  avg=42.61+-2.18  head=69.46+-1.88  tail=23.42+-0.57  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=38.85+-0.77  avg=45.15+-1.91  head=65.67+-1.92  tail=26.98+-0.56  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_imagenet-r_lp0_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=39.25+-0.96  avg=43.98+-2.30  head=69.57+-1.32  tail=25.84+-0.20  | no GSR, reg=1000
+  reg=100.0              last=38.01+-1.00  avg=43.39+-2.27  head=67.29+-1.97  tail=25.04+-0.31  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=38.62+-0.73  avg=45.44+-1.87  head=61.86+-1.77  tail=28.32+-0.45  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_t-imagenet_lp0.25_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=61.47+-0.24  avg=69.27+-0.68  head=84.86+-0.72  tail=51.44+-0.26  | no GSR, reg=1000
+  reg=100.0              last=69.22+-0.25  avg=75.28+-0.63  head=81.89+-0.78  tail=63.79+-0.55  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=69.70+-0.04  avg=76.54+-0.61  head=76.86+-0.77  tail=66.64+-0.31  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_t-imagenet_lp0.25_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=61.47+-0.24  avg=69.27+-0.68  head=84.86+-0.72  tail=51.44+-0.26  | no GSR, reg=1000
+  reg=100.0              last=69.35+-0.25  avg=75.63+-0.68  head=80.66+-0.61  tail=64.50+-0.58  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=69.67+-0.04  avg=76.58+-0.60  head=75.29+-0.82  tail=67.26+-0.41  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_t-imagenet_lp0.25_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=61.47+-0.24  avg=69.27+-0.68  head=84.86+-0.72  tail=51.44+-0.26  | no GSR, reg=1000
+  reg=100.0              last=69.42+-0.12  avg=75.94+-0.62  head=78.71+-0.71  tail=65.44+-0.47  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=69.15+-0.08  avg=76.43+-0.54  head=72.17+-1.08  tail=67.85+-0.38  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_t-imagenet_lp0.5_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=61.47+-0.24  avg=69.27+-0.68  head=84.86+-0.72  tail=51.44+-0.26  | no GSR, reg=1000
+  reg=100.0              last=66.07+-0.12  avg=74.63+-0.60  head=61.66+-0.87  tail=67.97+-0.51  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=63.42+-0.06  avg=72.30+-0.73  head=49.84+-0.51  tail=69.24+-0.30  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_t-imagenet_lp0.5_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=61.47+-0.24  avg=69.27+-0.68  head=84.86+-0.72  tail=51.44+-0.26  | no GSR, reg=1000
+  reg=100.0              last=65.26+-0.12  avg=74.20+-0.63  head=58.76+-0.74  tail=68.05+-0.49  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=62.59+-0.19  avg=71.86+-0.79  head=46.92+-0.62  tail=69.31+-0.35  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_t-imagenet_lp0.5_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=61.47+-0.24  avg=69.27+-0.68  head=84.86+-0.72  tail=51.44+-0.26  | no GSR, reg=1000
+  reg=100.0              last=64.36+-0.13  avg=73.72+-0.68  head=55.23+-0.82  tail=68.27+-0.37  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=61.48+-0.20  avg=71.12+-0.80  head=42.91+-0.46  tail=69.44+-0.31  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_t-imagenet_lp0_tr1.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=61.47+-0.24  avg=69.27+-0.68  head=84.86+-0.72  tail=51.44+-0.26  | no GSR, reg=1000
+  reg=100.0              last=61.78+-0.23  avg=67.91+-1.22  head=87.87+-0.80  tail=50.60+-0.68  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=64.02+-0.07  avg=70.61+-0.99  head=86.74+-0.64  tail=54.28+-0.37  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_t-imagenet_lp0_tr2.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=61.47+-0.24  avg=69.27+-0.68  head=84.86+-0.72  tail=51.44+-0.26  | no GSR, reg=1000
+  reg=100.0              last=62.85+-0.30  avg=68.90+-1.16  head=87.84+-0.62  tail=52.14+-0.69  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=65.05+-0.08  avg=71.46+-0.87  head=86.37+-0.78  tail=55.92+-0.43  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)
+
+==> sweeps/anacpall_mocov3_t-imagenet_lp0_tr4.log <==
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=61.47+-0.24  avg=69.27+-0.68  head=84.86+-0.72  tail=51.44+-0.26  | no GSR, reg=1000
+  reg=100.0              last=64.12+-0.20  avg=69.96+-1.01  head=87.46+-0.84  tail=54.11+-0.63  | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+  reg=1000.0             last=66.30+-0.12  avg=72.41+-0.80  head=85.76+-0.86  tail=57.96+-0.23  | reg=1000    balance     beta=1 T=200 | fixed Beta(2,2)

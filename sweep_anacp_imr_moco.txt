@@ -1,0 +1,58 @@
+12 configurations x 3 seeds
+[val] seed 0 | anacp      reg=100     last=35.08
+[val] seed 0 | reg=100     balance     beta=0.25 T=100 | fixed Beta(2,2)                   last=36.02 tail=35.00
+[val] seed 0 | reg=100     balance     beta=0.25 T=200 | fixed Beta(2,2)                   last=35.71 tail=34.36
+[val] seed 0 | reg=100     balance     beta=0.25 T=400 | fixed Beta(2,2)                   last=36.08 tail=34.80
+[val] seed 0 | reg=100     balance     beta=0.5 T=100 | fixed Beta(2,2)                    last=35.41 tail=34.24
+[val] seed 0 | reg=100     balance     beta=0.5 T=200 | fixed Beta(2,2)                    last=35.65 tail=34.33
+[val] seed 0 | reg=100     balance     beta=0.5 T=400 | fixed Beta(2,2)                    last=35.60 tail=34.30
+[val] seed 0 | reg=100     balance     beta=1 T=100 | fixed Beta(2,2)                      last=34.93 tail=33.98
+[val] seed 0 | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)                      last=35.31 tail=34.18
+[val] seed 0 | reg=100     balance     beta=1 T=400 | fixed Beta(2,2)                      last=35.09 tail=34.01
+[val] seed 0 | reg=100     balance     beta=2 T=100 | fixed Beta(2,2)                      last=34.31 tail=33.54
+[val] seed 0 | reg=100     balance     beta=2 T=200 | fixed Beta(2,2)                      last=34.69 tail=33.71
+[val] seed 0 | reg=100     balance     beta=2 T=400 | fixed Beta(2,2)                      last=34.38 tail=33.45
+[val] seed 1 | anacp      reg=100     last=39.03
+[val] seed 1 | reg=100     balance     beta=0.25 T=100 | fixed Beta(2,2)                   last=37.78 tail=35.86
+[val] seed 1 | reg=100     balance     beta=0.25 T=200 | fixed Beta(2,2)                   last=37.75 tail=35.42
+[val] seed 1 | reg=100     balance     beta=0.25 T=400 | fixed Beta(2,2)                   last=37.87 tail=35.70
+[val] seed 1 | reg=100     balance     beta=0.5 T=100 | fixed Beta(2,2)                    last=37.40 tail=35.39
+[val] seed 1 | reg=100     balance     beta=0.5 T=200 | fixed Beta(2,2)                    last=37.53 tail=35.14
+[val] seed 1 | reg=100     balance     beta=0.5 T=400 | fixed Beta(2,2)                    last=37.28 tail=34.92
+[val] seed 1 | reg=100     balance     beta=1 T=100 | fixed Beta(2,2)                      last=36.89 tail=35.08
+[val] seed 1 | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)                      last=36.71 tail=34.23
+[val] seed 1 | reg=100     balance     beta=1 T=400 | fixed Beta(2,2)                      last=36.55 tail=34.32
+[val] seed 1 | reg=100     balance     beta=2 T=100 | fixed Beta(2,2)                      last=35.94 tail=34.39
+[val] seed 1 | reg=100     balance     beta=2 T=200 | fixed Beta(2,2)                      last=36.20 tail=33.95
+[val] seed 1 | reg=100     balance     beta=2 T=400 | fixed Beta(2,2)                      last=36.01 tail=33.98
+[val] seed 2 | anacp      reg=100     last=38.47
+[val] seed 2 | reg=100     balance     beta=0.25 T=100 | fixed Beta(2,2)                   last=38.86 tail=35.82
+[val] seed 2 | reg=100     balance     beta=0.25 T=200 | fixed Beta(2,2)                   last=38.66 tail=35.40
+[val] seed 2 | reg=100     balance     beta=0.25 T=400 | fixed Beta(2,2)                   last=38.39 tail=35.22
+[val] seed 2 | reg=100     balance     beta=0.5 T=100 | fixed Beta(2,2)                    last=38.43 tail=35.49
+[val] seed 2 | reg=100     balance     beta=0.5 T=200 | fixed Beta(2,2)                    last=38.04 tail=34.83
+[val] seed 2 | reg=100     balance     beta=0.5 T=400 | fixed Beta(2,2)                    last=38.03 tail=34.77
+[val] seed 2 | reg=100     balance     beta=1 T=100 | fixed Beta(2,2)                      last=37.90 tail=35.01
+[val] seed 2 | reg=100     balance     beta=1 T=200 | fixed Beta(2,2)                      last=37.49 tail=34.35
+[val] seed 2 | reg=100     balance     beta=1 T=400 | fixed Beta(2,2)                      last=37.30 tail=34.26
+[val] seed 2 | reg=100     balance     beta=2 T=100 | fixed Beta(2,2)                      last=37.31 tail=34.74
+[val] seed 2 | reg=100     balance     beta=2 T=200 | fixed Beta(2,2)                      last=37.01 tail=33.93
+[val] seed 2 | reg=100     balance     beta=2 T=400 | fixed Beta(2,2)                      last=36.69 tail=33.84
+
+Validation ranking (last accuracy, mean over seeds)
+   37.55  head= 42.01 tail= 35.56  reg=100     balance     beta=0.25 T=100 | fixed Beta(2,2)
+   37.45  head= 42.32 tail= 35.24  reg=100     balance     beta=0.25 T=400 | fixed Beta(2,2)
+   37.37  head= 42.47 tail= 35.06  reg=100     balance     beta=0.25 T=200 | fixed Beta(2,2)
+   37.08  head= 41.64 tail= 35.04  reg=100     balance     beta=0.5 T=100 | fixed Beta(2,2)
+   37.07  head= 42.15 tail= 34.76  reg=100     balance     beta=0.5 T=200 | fixed Beta(2,2)
+   36.97  head= 42.07 tail= 34.66  reg=100     balance     beta=0.5 T=400 | fixed Beta(2,2)
+   36.57  head= 40.80 tail= 34.69  reg=100     balance     beta=1 T=100 | fixed Beta(2,2)
+   36.50  head= 41.47 tail= 34.25  reg=100     balance     beta=1 T=200 | fixed Beta(2,2)
+   36.31  head= 41.02 tail= 34.20  reg=100     balance     beta=1 T=400 | fixed Beta(2,2)
+   35.96  head= 40.61 tail= 33.86  reg=100     balance     beta=2 T=200 | fixed Beta(2,2)
+   35.86  head= 39.50 tail= 34.22  reg=100     balance     beta=2 T=100 | fixed Beta(2,2)
+   35.69  head= 39.95 tail= 33.76  reg=100     balance     beta=2 T=400 | fixed Beta(2,2)
+
+Test results, full protocol, best configuration of each group on validation (mean +- std over seeds)
+  anacp                  last=37.78+-1.20  avg=41.93+-2.26  head=71.35+-1.22  tail=22.96+-0.10  | no GSR, reg=100
+  geometry=spherical     last=37.49+-0.81  avg=46.77+-0.82  head=40.51+-2.54  tail=36.04+-1.50  | reg=100     balance     beta=0.25 T=100 | fixed Beta(2,2)
