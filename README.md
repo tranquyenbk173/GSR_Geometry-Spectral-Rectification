@@ -2,7 +2,7 @@
 
 Official implementation of **Geometry-Spectral Rectification (GSR)**, ECCV 2026.
 
-Quyen Tran, Ngoc-Hai Nguyen, Quan Dao, Zhuowei Li, Nam Le, Trung Le, Dimitris Metaxas
+Quyen Tran*, Ngoc-Hai Nguyen*, Quan Dao, Zhuowei Li, Nam Le, Trung Le, Dimitris Metaxas
 
 ![Overview of GSR](assets/method.png)
 
@@ -108,10 +108,12 @@ switches to the un-tuned configuration. All other methods use the shared default
 ## Citation
 
 ```bibtex
-@inproceedings{tran2026gsr,
-  title     = {Spectral-Aware Analytic Class-Incremental Learning for Long-Tailed Distributions},
-  author    = {Tran, Quyen and Nguyen, Ngoc-Hai and Dao, Quan and Li, Zhuowei and Le, Nam and Le, Trung and Metaxas, Dimitris},
-  booktitle = {European Conference on Computer Vision (ECCV)},
-  year      = {2026}
+@inproceedings{tran2026spectral,
+  title={Spectral-aware analytic class-incremental learning for long-tailed distributions},
+  author={Tran, Quyen and Nguyen, Hai and Dao, Quan and Li, Zhuowei and Le, Nam and Le, Trung and Metaxas, Dimitris},
+  booktitle={European Conference on Computer Vision},
+  pages={448--465},
+  year={2026},
+  organization={Springer}
 }
 ```
