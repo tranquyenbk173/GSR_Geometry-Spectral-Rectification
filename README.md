@@ -117,3 +117,7 @@ switches to the un-tuned configuration. All other methods use the shared default
   organization={Springer}
 }
 ```
+
+## License
+
+Released under the [MIT License](LICENSE).
